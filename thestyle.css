@@ -1,0 +1,22 @@
+.-demo {
+    height: 100px;
+    background-color: grey;
+    display: inline-block;
+    padding: 20px;
+  
+  }
+  .-red {
+    height: 100px;
+    background-color: red;
+  }
+  
+  .-green {
+    height: 100px;
+    background-color: green;
+  }
+  
+  .-blue {
+    height: 100px;
+    background-color: blue;
+  }
+  
