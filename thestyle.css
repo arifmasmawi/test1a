@@ -1,13 +1,10 @@
 .-demo {
-    height: 100px;
-    background-color: grey;
-    display: inline-block;
     padding: 20px;
   
   }
-  .-red {
+  .-purple {
     height: 100px;
-    background-color: red;
+    background-color: purple;
   }
   
   .-green {
